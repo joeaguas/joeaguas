@@ -7,4 +7,4 @@ I am always excited to learn more about using Python and SQL to create efficient
 
 Check out my [LinkedIn](http://www.linkedin.com/in/johannawaters) if you want to connect! I am open to opportunities and interesting conversation.
 
-⚡ Ask me about my current project: using python dataframes to compile and rank Austin's best restaurants ⚡
+⚡ Ask me about my current research in open public health data⚡
